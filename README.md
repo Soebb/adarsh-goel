@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-x-mania&label=Profile%20views&color=0e75b6&style=flat" alt="code-x-mania" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-x-mania" alt="code-x-mania" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adarshgoelo5" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgoelo5?logo=twitter&style=for-the-badge" alt="adarshgoelo5" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adarshgoel05" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgoel05?logo=twitter&style=for-the-badge" alt="adarshgoel05" /></a> </p>
 
 - 🔭 I’m currently working on [Filestreambot](https://github.com/Code-X-Mania/filestreambot)
 
@@ -29,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adarshgoelo5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshgoelo5" height="30" width="40" /></a>
+<a href="https://twitter.com/adarshgoel05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshgoel05" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshgoelo5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshgoelo5" height="30" width="40" /></a>
 </p>
 
