@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **contact@adarsh.tk**
 
-- 📄 Status [A busy student](A busy student)
+- 📄 Status [A busy student](https://t.me/codexmania)
 
 - ⚡ Fun fact **I am newbie ;-;**
 
