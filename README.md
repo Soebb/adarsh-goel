@@ -3,7 +3,7 @@
 
 <p align="centert"> <img src="https://komarev.com/ghpvc/?username=code-x-mania&label=Profile%20views&color=brightgreen&style=plastic" alt="code-x-mania" /> <p>
 
-<p align="left"> <a href="https://twitter.com/adarshgoel05" target="_blank" ><img src="https://img.shields.io/twitter/follow/adarshgoel05?logo=twitter&style=for-the-badge" alt="adarshgoel05" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adarshgoel05" target="blank" ><img src="https://img.shields.io/twitter/follow/adarshgoel05?logo=twitter&style=for-the-badge" alt="adarshgoel05" /></a> </p>
 
 - 🔭 I’m currently working on [Filestreambot](https://github.com/Code-X-Mania/filestreambot)
 
