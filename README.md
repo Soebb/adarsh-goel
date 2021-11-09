@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarshgoel05" target="blank" ><img src="https://img.shields.io/twitter/follow/adarshgoel05?logo=twitter&style=for-the-badge" alt="adarshgoel05" /></a> </p>
 
-- 🔭 I’m currently working on [Filestreambot](https://github.com/Code-X-Mania/filestreambot)
+- 🔭 I’m currently working on [SergeX - Group manager bot](https://github.com/Code-X-Mania/SergeX)
 
 - 🌱 I’m currently learning **Python ,Bash and C++**
 
