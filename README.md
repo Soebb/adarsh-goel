@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Goel</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&center=true&vCenter=true&width=413&height=150&lines=Adarsh+Goel;A+Newbie+Developer;Freelancer;Bot+Maker)](https://git.io/typing-svg)
+
 
 <p align="centert"> <img src="https://komarev.com/ghpvc//?username=code-x-mania&label=Profile%20views&color=brightgreen&style=plastic" alt="code-x-mania" /> <p>
 
