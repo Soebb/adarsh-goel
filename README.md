@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python and Html**
 
-- 📫 How to reach me **contact@adarsh.tk**
+- 📫 How to reach me **[contact@adarsh.tk](mailto:contact@adarsh.tk)**
 
 - 📄 Status [A busy student](https://t.me/codexmania)
 
