@@ -15,7 +15,7 @@
 
 - 🤝 Contact me through [Telegram](https://t.me/codexmania)
 
-- 👨‍💻 All of my projects are available at [https://github.com/codexmania](https://github.com/codexmania)
+- 👨‍💻 All of my projects are available at [My telegram Channel](https://t.me/codexmania)
 
 - 📝 My website [https://adarsh.tk](https://adarsh.tk)
 
