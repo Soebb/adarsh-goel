@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [My telegram Channel](https://t.me/codexmania)
 
-- 📝 My website [https://adarsh.tk](https://adarsh.tk)
+- 📝 My website [https://adarsh.codes](https://adarsh.codes)
 
 - 💬 Ask me about **Python and Html**
 
