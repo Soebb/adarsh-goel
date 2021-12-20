@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&center=true&vCenter=true&width=413&height=150&lines=Adarsh+Goel;A+Newbie+Developer;Freelancer;Bot+Maker)](https://git.io/typing-svg)
 
 
+![Profile Views](https://gpvc.arturio.dev/subinps)
 
 
 
